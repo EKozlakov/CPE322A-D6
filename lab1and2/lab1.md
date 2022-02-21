@@ -13,7 +13,7 @@
 ---
 ### $ ls - lists all files and folders in a directory.  
 ---
-### $ ping localost - pings your own machine. 
+### $ ping localhost - pings your own machine. 
 ---
 ### $ df - displays avilable disk space.
 ---
