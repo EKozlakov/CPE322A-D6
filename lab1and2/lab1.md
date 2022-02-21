@@ -1,4 +1,4 @@
-#LAB 1: Basic Linux Terminal commands.  
+LAB 1: Basic Linux Terminal commands.  
 
 ---
 ## $ hostname - name of device on network  
