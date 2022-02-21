@@ -3,11 +3,11 @@
 
 ---
 ## $ hostname - name of device on network  
-![hostname](hostname.jpg)
+![hostname](lab1_images/hostname.jpg)
 
 ---
 ## $ git clone - clones git repository to whatver directory you're in  
-![git clone](gitclone.jpg)
+![git clone](lab1_images/gitclone.jpg)
 
 ---
 ## $ cd - moves you to root directory.
