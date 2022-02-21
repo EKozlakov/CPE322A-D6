@@ -18,15 +18,27 @@
 
 ---
 ## $ ls - lists all files and folders in a directory.  
+![ls](ls_and_mv.jpg)
+
 ---
-## $ ping localhost - pings your own machine. 
+## $ ping localhost - pings your own machine.
+![pinglocalhost.jpg](pinglocalhost.jpg)
+
 ---
 ## $ df - displays avilable disk space.
+![df](df.jpg)
+
 ---
 ## $ ifconfig - displays ip, mac address, etc. 
+I have not posted this because ifconfig can contain sensitive information that should not be on a public repository.
 ---
-## $ mkdir [directory name] - creates a new folder/directory in the current directory.  
+## $ mkdir [directory name] - creates a new folder/directory in the current directory. 
+![mkdir](mkdir.jpg)
+
 ---
 ## $ uname - displays machine details.
+![uname](uname.jpg)
+
 ---
 ## $ man [service] - displays manual for called service. Below is an example for the service "uname".
+![man](man.jpg)
