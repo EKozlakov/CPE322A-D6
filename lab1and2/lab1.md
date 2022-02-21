@@ -9,8 +9,8 @@
 ![git clone](gitclone.jpg)
 ---
 ## $ cd - moves you to root directory.
-### $ cd [directory name] - moves you to named directory.
-### $ cd .. - moves you to parent directory.  
+- $ cd [directory name] - moves you to named directory.  
+- $ cd .. - moves you to parent directory.  
 ![cd](cd..ls.jpg)
 ---
 ## $ ls - lists all files and folders in a directory.  
