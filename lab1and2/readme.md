@@ -35,4 +35,11 @@ I have not posted this because ifconfig can contain sensitive information that s
 ![man](lab1_images/man.jpg)  
 
 ---  
-#LAB 2G and 2H: Audio and Image Recording
+# LAB 2G and 2H: Audio and Image Recording  
+## LAB 2G: Audio Recording 
+For this section of the lab, I used a the microphone of a USB webcam as my acting microphone and a pair of ordinary earbuds for playback through the Raspberry Pi 4B's 3.5 mm  
+audio jack. I used the "arecord" service to record audio and "aplay" service to play back the produced .wav files. Below are screenshots of the commands and the subsequent  
+audio files.   
+
+### "test.wav" - First Audio file
+For this audio file, I simply typed 'arecord test.wav' to get started.
