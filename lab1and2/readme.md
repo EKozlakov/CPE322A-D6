@@ -34,5 +34,5 @@ I have not posted this because ifconfig can contain sensitive information that s
 ## $ man [service] - displays manual for called service. Below is an example for the service "uname".
 ![man](lab1_images/man.jpg)  
 
----
+---  
 #LAB 2G and 2H: Audio and Image Recording
