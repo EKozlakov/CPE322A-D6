@@ -43,14 +43,14 @@ I first checked if my Raspberry Pi registered any of my audio inputs and outputs
 ![arecord-l](lab2files/arecord-l.jpg)  
 
 I then checked if my Pi successfully registered my audio output (earbuds) by typing `aplay -l` in the commandline. Again, this is the same as `arecord -l` but for output devices.  
-![aplay-l]()  
+![aplay-l](lab2files/aplay-l.jpg)  
 
 Now that I knew my inputs and outputs were recognized, I started recording my audio files.
 
 ### "test.wav" - First Audio file
 For this audio file, I simply typed `arecord test.wav` to get started. This is the simplest way to get started recording. By default, `arecord` records in Unsigned 8-bit, 8kHz sample rate in Mono audio.  
-![test1wav.jpg]()
-[test.wav]()
+![test1wav.jpg](lab2files/test1wav.jpg)  
+[test.wav](lab2files/test.wav)
 
 ### "test2.wav" - Second Audio file
 For this audio file, I followed assignment parameters and typed the following in my commandline: `arecord --device=hw:2,0 --format S16_LE --rate 44100 -c1 test2.wav`. The breakdown is as follows: 
@@ -59,13 +59,13 @@ For this audio file, I followed assignment parameters and typed the following in
  - the `rate` field indicates the sampling rate for the file, in this case it's 44.1 kHz (defaulted to 48 kHz);
  - and the `c1` indicates the number of channels for the recording, in this case, 1 channel was used. 
 The screenshots and resulting audio files are below.   
-![test2wav.jpg]() 
-[test2.wav]() 
+![test2wav.jpg](lab2files/test2wav.jpg) 
+[test2.wav](lab2files/test2.wav) 
 
 ### "test6.wav" - 6th Audio file, First stereo audio file.  
 I experimented with several more recordings in an attempt to get a stereo recording. I succeeded in my recording of "test6.wav", but I'm not sure if there is a noticable difference audibly. However, I am glad to have finally recorded *some* kind of stereo file. Below are screenshots of the final attempts before I succeeded, and a link to the audio file itself. 
-![test6wav.jpg]()
-[test6.wav]()
+![test6wav.jpg](lab2files/test6wav.jpg)
+[test6.wav](lab2files/test6.wav)
 
 ### Endnote
 Throughout my trials and errors I produced approximately 6 total audio files. I will put on the markdown the ones I have mentioned above, but the rest can be accessible in the back files.
@@ -76,15 +76,15 @@ Following the audio recording lab, I attempted to capture images using the same 
 
 ### image1.jpg
 Commandline entry: `fswebcam image.jpg`. Since resolution was not specified, it defaulted to 382x288. Below is the output.
-![image.jpg](image.jpg)
+![image.jpg](lab2files/image.jpg)
 
 ### image2.jpg
 Commandline entry: `fswebcame -r 1280x720 image2.jpg`. `-r 1280x720` denotes resolution setting. In this case, resolution was set to 1280x720. Output below.  
-![image2.jpg](image2.jpg)
+![image2.jpg](lab2files/image2.jpg)
 
 ### image3.jpg
 Commandline entry: `fswebcam -r 1280x720 --no-banner image3.jpg`. Same instruction as for image2, with the only difference being the `--no-banner` flag. This option removes the banner fswebcam automatically puts at the bottom of images, containing the timestamp of the image. It can contain other details by way of additional flags if desired.  
-![image3.jpg](image3.jpg)
+![image3.jpg](lab2files/image3.jpg)
 
 ### Endnote
 I have taken several more images without the `--no-banner` flag which can be found in the "lab2files" folder of this particular directory. Feel free to take a look.
