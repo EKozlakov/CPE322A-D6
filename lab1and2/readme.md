@@ -82,17 +82,21 @@ Throughout my trials and errors I produced approximately 6 total audio files. I 
 Following the audio recording lab, I attempted to capture images using the same camera I used as a microphone. This was accomplished by installing fswebcam by way of the instructions on Professor Lu's IoT repository [here](https://github.com/kevinwlu/iot/tree/master/lesson2#connect-a-usb-webcam-to-raspberry-pi-install-fswebcam-and-save-images). Below are 5 images I took using the webcam, under different paramters.
 
 ### image1.jpg
-Commandline entry: `fswebcam image.jpg`. Since resolution was not specified, it defaulted to 382x288. Below is the output: an image of my Raspberry Pi.
+Commandline entry: `fswebcam image.jpg`. Since resolution was not specified, it defaulted to 382x288. Below is the output: an image of my Raspberry Pi.  
+
 ![image.jpg](lab2files/image.jpg)
 
 ### image2.jpg
 Commandline entry: `fswebcame -r 1280x720 image2.jpg`. `-r 1280x720` denotes resolution setting. In this case, resolution was set to 1280x720. Output below.  
+
 ![image2.jpg](lab2files/image2.jpg)
 
 ### image3.jpg
-Commandline entry: `fswebcam -r 1280x720 --no-banner image3.jpg`. Same instruction as for image2, with the only difference being the `--no-banner` flag. This option removes the banner fswebcam automatically puts at the bottom of images, containing the timestamp of the image. It can contain other details by way of additional flags if desired. I have noticed that the image appears brighter without the flag. At the time of writing, I am not sure why this is.
+Commandline entry: `fswebcam -r 1280x720 --no-banner image3.jpg`. Same instruction as for image2, with the only difference being the `--no-banner` flag. This option removes the banner fswebcam automatically puts at the bottom of images, containing the timestamp of the image. It can contain other details by way of additional flags if desired. I have noticed that the image appears brighter without the flag. At the time of writing, I am not sure why this is.  
+
 ![image3.jpg](lab2files/image3.jpg)
 
-### Endnote
-I have taken several more images without the `--no-banner` flag which can be found in the "lab2files" folder of this particular directory. Feel free to take a look.
+### Endnote(s)
+1. I have noticed there is a blue tinge to every captured image from my webcam. At the time of writing, I am not sure why this is.  
+2. 2. I have taken several more images without the `--no-banner` flag which can be found in the "lab2files" folder of this particular directory. Feel free to take a look.
 
