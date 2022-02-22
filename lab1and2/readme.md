@@ -87,7 +87,7 @@ Commandline entry: `fswebcam image.jpg`. Since resolution was not specified, it 
 ![image.jpg](lab2files/image.jpg)
 
 ### image2.jpg
-Commandline entry: `fswebcame -r 1280x720 image2.jpg`. `-r 1280x720` denotes resolution setting. In this case, resolution was set to 1280x720. Output below.  
+Commandline entry: `fswebcam -r 1280x720 image2.jpg`. `-r 1280x720` denotes resolution setting. In this case, resolution was set to 1280x720. Output below.  
 
 ![image2.jpg](lab2files/image2.jpg)
 
