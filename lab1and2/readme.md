@@ -50,7 +50,8 @@ Now that I knew my inputs and outputs were recognized, I started recording my au
 ### "test.wav" - First Audio file
 For this audio file, I simply typed `arecord test.wav` to get started. This is the simplest way to get started recording. By default, `arecord` records in Unsigned 8-bit, 8kHz sample rate in Mono audio.  
 ![test1wav.jpg](lab2files/test1wav.jpg)  
-[test.wav](lab2files/test.wav)
+
+Audio File: [test.wav](lab2files/test.wav)
 
 ### "test2.wav" - Second Audio file
 For this audio file, I followed assignment parameters and typed the following in my commandline: 
@@ -61,14 +62,17 @@ The breakdown is as follows:
  - the `--rate` flag indicates the sampling rate for the file, in this case it's 44.1 kHz (defaulted to 48 kHz);
  - and the `-c1` flag indicates the number of channels for the recording, in this case, 1 channel was used.  
   
-The screenshots and resulting audio files are below.
-![test2wav.jpg](lab2files/test2wav.jpg) 
-[test2.wav](lab2files/test2.wav) 
+The screenshots and resulting audio file are below.
+
+![test2wav.jpg](lab2files/test2wav.jpg)  
+
+Audio File: [test2.wav](lab2files/test2.wav) 
 
 ### "test6.wav" - 6th Audio file, First stereo audio file.  
 I experimented with several more recordings in an attempt to get a stereo recording. I succeeded in my recording of "test6.wav", but I'm not sure if there is a noticable difference audibly. However, I am glad to have finally recorded *some* kind of stereo file. Below are screenshots of the final attempts before I succeeded, and a link to the audio file itself. 
-![test6wav.jpg](lab2files/test6wav.jpg)
-[test6.wav](lab2files/test6.wav)
+![test6wav.jpg](lab2files/test6wav.jpg)  
+
+Audio File: [test6.wav](lab2files/test6.wav)
 
 ### Endnote
 Throughout my trials and errors I produced approximately 6 total audio files. I will put on the markdown the ones I have mentioned above, but the rest can be accessible in the back files.
