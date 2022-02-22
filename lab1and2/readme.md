@@ -4,7 +4,7 @@
 ## $ hostname - name of device on network  
 ![hostname](lab1_images/hostname.jpg)  
 
-## $ git clone - clones git repository to whatver directory you're in  
+## $ git clone - clones git repository to whatever directory you're in  
 ![git clone](lab1_images/gitclone.jpg)  
 
 ## $ cd - moves you to root directory.
