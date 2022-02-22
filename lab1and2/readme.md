@@ -85,7 +85,7 @@ Commandline entry: `fswebcame -r 1280x720 image2.jpg`. `-r 1280x720` denotes res
 ![image2.jpg](lab2files/image2.jpg)
 
 ### image3.jpg
-Commandline entry: `fswebcam -r 1280x720 --no-banner image3.jpg`. Same instruction as for image2, with the only difference being the `--no-banner` flag. This option removes the banner fswebcam automatically puts at the bottom of images, containing the timestamp of the image. It can contain other details by way of additional flags if desired.  
+Commandline entry: `fswebcam -r 1280x720 --no-banner image3.jpg`. Same instruction as for image2, with the only difference being the `--no-banner` flag. This option removes the banner fswebcam automatically puts at the bottom of images, containing the timestamp of the image. It can contain other details by way of additional flags if desired. I have noticed that the image appears brighter without the flag. At the time of writing, I am not sure why this is.
 ![image3.jpg](lab2files/image3.jpg)
 
 ### Endnote
