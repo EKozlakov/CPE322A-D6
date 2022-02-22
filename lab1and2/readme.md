@@ -98,5 +98,5 @@ Commandline entry: `fswebcam -r 1280x720 --no-banner image3.jpg`. Same instructi
 
 ### Endnote(s)
 1. I have noticed there is a blue tinge to every captured image from my webcam. At the time of writing, I am not sure why this is.  
-2. 2. I have taken several more images without the `--no-banner` flag which can be found in the "lab2files" folder of this particular directory. Feel free to take a look.
+2. I have taken several more images without the `--no-banner` flag which can be found in the "lab2files" folder of this particular directory. Feel free to take a look.
 
