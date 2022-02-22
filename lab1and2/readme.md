@@ -1,14 +1,11 @@
 
 # LAB 1: Basic Linux Terminal commands.  
-
 ---
 ## $ hostname - name of device on network  
 ![hostname](lab1_images/hostname.jpg)
-
 ---
 ## $ git clone - clones git repository to whatver directory you're in  
 ![git clone](lab1_images/gitclone.jpg)
-
 ---
 ## $ cd - moves you to root directory.
 - $ cd [directory name] - moves you to named directory.  
@@ -42,3 +39,7 @@ I have not posted this because ifconfig can contain sensitive information that s
 ---
 ## $ man [service] - displays manual for called service. Below is an example for the service "uname".
 ![man](lab1_images/man.jpg)
+
+---
+
+#LAB 2G and 2H: Audio and Image Recording
