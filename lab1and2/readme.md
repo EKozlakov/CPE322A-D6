@@ -40,7 +40,7 @@ I have not posted this because ifconfig can contain sensitive information that s
 For this section of the lab, I used a the microphone of a USB webcam as my acting microphone and a pair of ordinary earbuds for playback through the Raspberry Pi 4B's 3.5 mm audio jack. I used the "arecord" service to record audio and "aplay" service to play back the produced .wav files. Below are screenshots of the commands and the subsequent audio files.
 
 I first checked if my Raspberry Pi registered any of my audio inputs and outputs by typing `arecord -l` in the commandline. This lists any recording devices available to the Pi in a simple format. In this case, my webcam was the available recording device, listed as such.  
-![arecord-l]()  
+![arecord-l](lab2files/arecord-l)  
 
 I then checked if my Pi successfully registered my audio output (earbuds) by typing `aplay -l` in the commandline. Again, this is the same as `arecord -l` but for output devices.  
 ![aplay-l]()  
