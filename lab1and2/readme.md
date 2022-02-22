@@ -53,11 +53,13 @@ For this audio file, I simply typed `arecord test.wav` to get started. This is t
 [test.wav](lab2files/test.wav)
 
 ### "test2.wav" - Second Audio file
-For this audio file, I followed assignment parameters and typed the following in my commandline: `arecord --device=hw:2,0 --format S16_LE --rate 44100 -c1 test2.wav`. The breakdown is as follows: 
- - the `device` field specifies which device I'm using to record, in this case device 2; 
- - the `format` field indicates the file is being recorded in S16_LE format; 
- - the `rate` field indicates the sampling rate for the file, in this case it's 44.1 kHz (defaulted to 48 kHz);
- - and the `c1` indicates the number of channels for the recording, in this case, 1 channel was used. 
+For this audio file, I followed assignment parameters and typed the following in my commandline: 
+`arecord --device=hw:2,0 --format S16_LE --rate 44100 -c1 test2.wav`. 
+The breakdown is as follows: 
+ - the `--device` flag specifies which device I'm using to record, in this case device 2; 
+ - the `--format` flag indicates the file is being recorded in S16_LE format; 
+ - the `--rate` flag indicates the sampling rate for the file, in this case it's 44.1 kHz (defaulted to 48 kHz);
+ - and the `-c1` flag indicates the number of channels for the recording, in this case, 1 channel was used. 
 The screenshots and resulting audio files are below.   
 ![test2wav.jpg](lab2files/test2wav.jpg) 
 [test2.wav](lab2files/test2.wav) 
