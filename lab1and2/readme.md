@@ -77,7 +77,7 @@ Throughout my trials and errors I produced approximately 6 total audio files. I 
 Following the audio recording lab, I attempted to capture images using the same camera I used as a microphone. This was accomplished by installing fswebcam by way of the instructions on Professor Lu's IoT repository [here](https://github.com/kevinwlu/iot/tree/master/lesson2#connect-a-usb-webcam-to-raspberry-pi-install-fswebcam-and-save-images). Below are 5 images I took using the webcam, under different paramters.
 
 ### image1.jpg
-Commandline entry: `fswebcam image.jpg`. Since resolution was not specified, it defaulted to 382x288. Below is the output.
+Commandline entry: `fswebcam image.jpg`. Since resolution was not specified, it defaulted to 382x288. Below is the output: an image of my Raspberry Pi.
 ![image.jpg](lab2files/image.jpg)
 
 ### image2.jpg
