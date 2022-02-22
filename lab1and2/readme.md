@@ -42,4 +42,4 @@ audio jack. I used the "arecord" service to record audio and "aplay" service to 
 audio files.   
 
 ### "test.wav" - First Audio file
-For this audio file, I simply typed 'arecord test.wav' to get started.
+For this audio file, I simply typed `arecord test.wav` to get started.
