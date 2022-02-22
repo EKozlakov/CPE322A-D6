@@ -60,6 +60,7 @@ The breakdown is as follows:
  - the `--format` flag indicates the file is being recorded in S16_LE format; 
  - the `--rate` flag indicates the sampling rate for the file, in this case it's 44.1 kHz (defaulted to 48 kHz);
  - and the `-c1` flag indicates the number of channels for the recording, in this case, 1 channel was used.  
+  
 The screenshots and resulting audio files are below.
 ![test2wav.jpg](lab2files/test2wav.jpg) 
 [test2.wav](lab2files/test2.wav) 
