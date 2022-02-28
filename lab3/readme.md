@@ -11,7 +11,7 @@ Below is an example of some basic math functions python is capable of handling v
   ![basicmath.jpg](imgs/basicmath.jpg)  
 
 - Complex number descriptions: Below a complex number with an imaginary compenent `2+3j` is set equal to the variable `y`. The following calls serve to identify the real and complex components of this number.  
-  ![complexmath.jpg](imgs/complexmath.jpg)  
+  ![compmath.jpg](imgs/compmath.jpg)  
 
 ## Strings and binary data
 The terminal images below show how simple string manipulations can be accomplished in python.  
