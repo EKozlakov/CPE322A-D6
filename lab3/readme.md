@@ -67,10 +67,10 @@ List manipulation with python.
   ![dfuncs.jpg](imgs/dfuncs.jpg)  
 
 ## Keyword args
-   ![kwargs.jpg](imgs/kwargs.jpg)
+   ![kwargs.jpg](imgs/kwargsjpg.jpg)
    
 ## Variable Length Arguments
-   ![varargs.jpg](imgs/varargs.jpg)
+   ![varargs.jpg](imgs/varargsjpg.jpg)
 
 ## Using some modules
    ![modules.jpg](imgs/modules.jpg)
