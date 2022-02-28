@@ -3,7 +3,7 @@
 ## Numerical operations
 Below is an example of some basic math functions python is capable of handling via the numpy library, as well how it can identify imaginary and real components of complex numbers.
 
-- Variable assignment and description call
+- Variable assignment and description call  
   ![vass.jpg]()  
   
 - Arithmetic operations  
