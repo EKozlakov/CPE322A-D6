@@ -60,7 +60,7 @@ List manipulation with python.
   ![moremath.jpg](imgs/moremath.jpg)
   
 ## Range function
-  Usage `range([start],[stop],[step])`
+  Usage `range([start],[stop],[step])`  
   ![range.jpg](imgs/range.jpg)
   
 ## Defining a few functions.
