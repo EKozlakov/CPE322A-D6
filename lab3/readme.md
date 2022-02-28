@@ -19,7 +19,7 @@ The terminal images below show how simple string manipulations can be accomplish
  - Variable assignment, case manipulation (`.upper()` and `.lower()`), and character removal (`strip()`). All changes made were temporary and displayed immediately.  
     ![stringmanip.jpg]()  
     
- - Displaying specifics characters and length count. `s[0]` calls for the first character in string variable, `s[6:]` calls for every character starting from the 6th position in the string variable, and `s[6:-1]` calls for every character between the 6th position and the length-1 position (in this case, since the string length is 12, the last character retrieved would be the 11th character.
+ - Displaying specifics characters and length count. `s[0]` calls for the first character in string variable, `s[6:]` calls for every character starting from the 6th position in the string variable, and `s[6:-1]` calls for every character between the 6th position and the length-1 position (in this case, since the string length is 12, the last character retrieved would be the 11th character.  
     ![charcount.jpg]() 
     
  - Binary Encoding and Decoding of strings.  
