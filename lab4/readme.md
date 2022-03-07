@@ -1,4 +1,4 @@
-# Lab 4: Django, Django Rest, and Flask.  
+# Lab 4: Django, Django REST, and Flask.  
 
 ## Django Server Setup and Running 
 
@@ -25,3 +25,6 @@ Following the instrcutions, I then edited the `ALLOWED_HOSTS = []` argument in s
 To be updated. Currently encountering issue where cpu, memory, and date time data cannot be retrieved due to an error online 31 of `views.py` file. However, Django REST server and other components seems to launc hand operate fine.  
 Offending line is screenshotted below.  
 ![errorline.jpg](lab4images/errorline.jpg)
+
+### Flask  
+Will be completed once 'MyCPU' is completed and reported on.
