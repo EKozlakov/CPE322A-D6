@@ -4,10 +4,10 @@
 ![Lab7_1](lab7images/Lab7_1.jpg)  
 
 ## `cat thingspeak_cpu_loop.py`
-![Lab7_2](lab7images/lab7_2.jpg)  
+![Lab7_2](lab7images/Lab7_2.jpg)  
 
 ## `cat thingspeak_feed.py`  
-![Lab7_3](lab7images/lab7_3.jpg)  
+![Lab7_3](lab7images/Lab7_3.jpg)  
 
 ## `python3 thingspeak_feed.py`  
 ```
