@@ -378,7 +378,7 @@ Reulting plot and output:
 Unfortunately, despite following intructions [here]() for installing TensorFlow on Debian Bullseye as best as I could, I still ran into the following errors when trying to execute `keras_diabetes.py` and `keras_first_network.py`.
 ![Lab8_16](lab8images/Lab8-16.jpg)  
 
-### Titanic Exampls
+### Titanic Examples
 `titanic_1.py`
 ![Lab8_17](lab8images/Lab8-17.jpg)  
 `titanic_2.py`
