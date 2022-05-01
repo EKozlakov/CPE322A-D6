@@ -30,7 +30,7 @@ Sat, 30 Apr 2022 18:27:01
 ...
 ```  
 
-## Results after ~1 hour
+## Results after ~2 hours
 ### 'cpu_loop' 
 ![Lab 7_4](lab7images/Lab7_4.jpg)  
 
