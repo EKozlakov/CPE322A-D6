@@ -35,4 +35,4 @@ Sat, 30 Apr 2022 18:27:01
 ![Lab 7_4](lab7images/Lab7_4.jpg)  
 
 ### 'mem_avail_mb'  
-![Lab 7_5](lab7images/Lab7_5)  
+![Lab 7_5](lab7images/Lab7_5.jpg)  
