@@ -1,9 +1,8 @@
 # HELLO  
 
-My name is Eugene Kozlakov. You have come upon my Git Repo page for D6! As of right now there is currently  
-  - NOTHING
-  - HERE
-  - **...YET!**
+My name is Eugene Kozlakov. You've found my Git Repo page for D6! As of right now there is currently as much work as I could get done on the 10 labs across the course. Here and there I added a few easter eggs in my fiels, but I doubt they've come through.
+
+Have fun looking around, and reach out if there are any questions, comments, or concerns you may have.
 
 ***  
 
