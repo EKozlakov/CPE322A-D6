@@ -32,7 +32,7 @@ Sat, 30 Apr 2022 18:27:01
 
 ## Results after ~1 hour
 ### 'cpu_loop' 
-![Lab 7_4](lab7images/lab7_4.jpg)  
+![Lab 7_4](lab7images/Lab7_4.jpg)  
 
 ### 'mem_avail_mb'  
-![Lab 7_5](lab7images/lab7_5)  
+![Lab 7_5](lab7images/Lab7_5)  
